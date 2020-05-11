@@ -5,7 +5,10 @@ import java.util.NoSuchElementException;
 
 public class Main{
     public static void main(String[] args) {
+        FastScanner sc = new FastScanner();
+        PrintWriter out = new PrintWriter(System.out);
 
+        out.flush();
     }
 }
 class FastScanner {
